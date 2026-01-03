@@ -11,3 +11,7 @@ and  schematic
 <img width="1090" height="567" alt="Zrzut ekranu 2026-01-03 145521" src="https://github.com/user-attachments/assets/0f9936d8-c742-404a-ba5b-2e0954df0518" />
 
 idk i spend like 8h i need make 2 version becuse 1 verison dont work . i dont take screan shot when oi making 2 verion
+
+so there is v1 what look like
+
+<img width="553" height="666" alt="Zrzut ekranu 2026-01-03 160450" src="https://github.com/user-attachments/assets/66e2d665-a4bf-43f8-8bfd-019f2bd91093" />
