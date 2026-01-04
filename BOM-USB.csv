@@ -1,0 +1,14 @@
+,Id,Footprint,Liczba,Oznaczenie
+1,Oznaczenie,C_Disc_D5.0mm_W2.5mm_P2.50mm,6,100nF_Ceramic
+2,"J3,J4,J2,J5",USB_A_Molex_67643_Horizontal,4,USB_A
+3,Y1,Crystal_HC49-4H_Vertical,1,Crystal_24MHz
+4,U4,SOT-223-3_TabPin2,1,AMS1117-3.3
+5,U3,QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm,1,USB2514B_Bi
+6,RBIAS1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,12k
+7,"R6,R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,100k
+8,"R4,R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,5.1k
+9,J1,USB_C_Receptacle_GCT_USB4085,1,USB_C_Receptacle_USB2.0_16P
+10,"C8,C5",CP_Radial_D4.0mm_P1.50mm,2,1uF_50V
+11,"C7,C6",C_Disc_D5.0mm_W2.5mm_P2.50mm,2,22pF_Ceramic
+12,C4,CP_Radial_D4.0mm_P1.50mm,1,22uF_16V
+13,C3,CP_Radial_D5.0mm_P2.00mm,1,10uF_16V
